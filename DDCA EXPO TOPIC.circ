@@ -53,117 +53,208 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <a name="clabel" val="CLK"/>
     <a name="clabelup" val="east"/>
     <a name="clabelfont" val="SansSerif plain 12"/>
+    <wire from="(830,270)" to="(880,270)"/>
     <wire from="(130,200)" to="(190,200)"/>
     <wire from="(390,270)" to="(440,270)"/>
-    <wire from="(500,270)" to="(550,270)"/>
-    <wire from="(130,330)" to="(250,330)"/>
-    <wire from="(280,270)" to="(330,270)"/>
-    <wire from="(280,250)" to="(280,270)"/>
-    <wire from="(190,200)" to="(300,200)"/>
-    <wire from="(340,280)" to="(340,300)"/>
     <wire from="(230,300)" to="(340,300)"/>
-    <wire from="(250,330)" to="(360,330)"/>
-    <wire from="(450,280)" to="(450,300)"/>
-    <wire from="(390,250)" to="(390,270)"/>
-    <wire from="(500,250)" to="(500,270)"/>
+    <wire from="(720,270)" to="(720,360)"/>
     <wire from="(410,200)" to="(520,200)"/>
-    <wire from="(450,300)" to="(560,300)"/>
-    <wire from="(470,330)" to="(580,330)"/>
-    <wire from="(300,200)" to="(410,200)"/>
+    <wire from="(670,300)" to="(780,300)"/>
+    <wire from="(580,330)" to="(690,330)"/>
+    <wire from="(1000,280)" to="(1000,300)"/>
+    <wire from="(560,280)" to="(560,300)"/>
+    <wire from="(280,270)" to="(280,360)"/>
+    <wire from="(850,200)" to="(960,200)"/>
+    <wire from="(190,250)" to="(220,250)"/>
+    <wire from="(700,250)" to="(720,250)"/>
+    <wire from="(260,250)" to="(280,250)"/>
+    <wire from="(630,250)" to="(660,250)"/>
+    <wire from="(520,200)" to="(520,250)"/>
+    <wire from="(360,280)" to="(360,330)"/>
+    <wire from="(960,200)" to="(960,250)"/>
+    <wire from="(800,280)" to="(800,330)"/>
+    <wire from="(940,270)" to="(990,270)"/>
+    <wire from="(500,270)" to="(550,270)"/>
+    <wire from="(280,250)" to="(280,270)"/>
+    <wire from="(250,330)" to="(360,330)"/>
+    <wire from="(830,270)" to="(830,360)"/>
     <wire from="(230,280)" to="(230,300)"/>
     <wire from="(340,300)" to="(450,300)"/>
-    <wire from="(360,330)" to="(470,330)"/>
-    <wire from="(560,280)" to="(560,300)"/>
+    <wire from="(690,330)" to="(800,330)"/>
+    <wire from="(520,200)" to="(630,200)"/>
     <wire from="(390,270)" to="(390,360)"/>
-    <wire from="(500,270)" to="(500,360)"/>
     <wire from="(130,300)" to="(230,300)"/>
-    <wire from="(280,270)" to="(280,360)"/>
-    <wire from="(190,250)" to="(220,250)"/>
-    <wire from="(410,250)" to="(440,250)"/>
+    <wire from="(670,280)" to="(670,300)"/>
+    <wire from="(780,300)" to="(890,300)"/>
+    <wire from="(720,250)" to="(720,270)"/>
+    <wire from="(810,250)" to="(830,250)"/>
     <wire from="(130,270)" to="(220,270)"/>
-    <wire from="(590,250)" to="(610,250)"/>
     <wire from="(300,250)" to="(330,250)"/>
     <wire from="(610,250)" to="(610,360)"/>
-    <wire from="(260,250)" to="(280,250)"/>
     <wire from="(370,250)" to="(390,250)"/>
-    <wire from="(520,250)" to="(550,250)"/>
-    <wire from="(480,250)" to="(500,250)"/>
+    <wire from="(740,250)" to="(770,250)"/>
     <wire from="(190,200)" to="(190,250)"/>
+    <wire from="(470,280)" to="(470,330)"/>
+    <wire from="(630,200)" to="(630,250)"/>
+    <wire from="(1050,250)" to="(1050,360)"/>
+    <wire from="(910,280)" to="(910,330)"/>
+    <wire from="(130,330)" to="(250,330)"/>
+    <wire from="(190,200)" to="(300,200)"/>
+    <wire from="(340,280)" to="(340,300)"/>
+    <wire from="(390,250)" to="(390,270)"/>
+    <wire from="(940,270)" to="(940,360)"/>
+    <wire from="(450,300)" to="(560,300)"/>
+    <wire from="(360,330)" to="(470,330)"/>
+    <wire from="(830,250)" to="(830,270)"/>
+    <wire from="(630,200)" to="(740,200)"/>
+    <wire from="(500,270)" to="(500,360)"/>
+    <wire from="(800,330)" to="(910,330)"/>
+    <wire from="(780,280)" to="(780,300)"/>
+    <wire from="(890,300)" to="(1000,300)"/>
+    <wire from="(920,250)" to="(940,250)"/>
+    <wire from="(410,250)" to="(440,250)"/>
+    <wire from="(480,250)" to="(500,250)"/>
+    <wire from="(850,250)" to="(880,250)"/>
+    <wire from="(300,200)" to="(300,250)"/>
+    <wire from="(740,200)" to="(740,250)"/>
+    <wire from="(580,280)" to="(580,330)"/>
+    <wire from="(1020,280)" to="(1020,330)"/>
+    <wire from="(720,270)" to="(770,270)"/>
+    <wire from="(280,270)" to="(330,270)"/>
+    <wire from="(450,280)" to="(450,300)"/>
+    <wire from="(500,250)" to="(500,270)"/>
+    <wire from="(470,330)" to="(580,330)"/>
+    <wire from="(300,200)" to="(410,200)"/>
+    <wire from="(890,280)" to="(890,300)"/>
+    <wire from="(740,200)" to="(850,200)"/>
+    <wire from="(940,250)" to="(940,270)"/>
+    <wire from="(560,300)" to="(670,300)"/>
+    <wire from="(910,330)" to="(1020,330)"/>
+    <wire from="(1030,250)" to="(1050,250)"/>
+    <wire from="(570,270)" to="(590,270)"/>
+    <wire from="(590,250)" to="(610,250)"/>
+    <wire from="(520,250)" to="(550,250)"/>
+    <wire from="(960,250)" to="(990,250)"/>
     <wire from="(250,280)" to="(250,330)"/>
     <wire from="(410,200)" to="(410,250)"/>
-    <wire from="(520,200)" to="(520,250)"/>
-    <wire from="(470,280)" to="(470,330)"/>
-    <wire from="(300,200)" to="(300,250)"/>
-    <wire from="(360,280)" to="(360,330)"/>
-    <wire from="(580,280)" to="(580,330)"/>
-    <comp lib="4" loc="(590,250)" name="D Flip-Flop"/>
+    <wire from="(690,280)" to="(690,330)"/>
+    <wire from="(850,200)" to="(850,250)"/>
+    <comp lib="6" loc="(569,223)" name="Text">
+      <a name="text" val="DEF4"/>
+      <a name="font" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="4" loc="(810,250)" name="D Flip-Flop"/>
+    <comp lib="6" loc="(440,224)" name="Text">
+      <a name="text" val="DEF5"/>
+      <a name="font" val="Segoe UI Semibold bold 20"/>
+    </comp>
     <comp lib="0" loc="(610,360)" name="Pin">
       <a name="facing" val="north"/>
       <a name="output" val="true"/>
-      <a name="label" val="Q0"/>
+      <a name="label" val="Q4"/>
       <a name="labelloc" val="east"/>
       <a name="labelfont" val="Segoe UI Semibold bold 20"/>
     </comp>
-    <comp lib="6" loc="(220,229)" name="Text"/>
     <comp lib="6" loc="(331,226)" name="Text">
-      <a name="text" val="DEF2"/>
+      <a name="text" val="DEF6"/>
       <a name="font" val="Segoe UI Semibold bold 20"/>
     </comp>
-    <comp lib="6" loc="(440,224)" name="Text">
-      <a name="text" val="DEF1"/>
-      <a name="font" val="Segoe UI Semibold bold 20"/>
-    </comp>
-    <comp lib="4" loc="(370,250)" name="D Flip-Flop"/>
-    <comp lib="6" loc="(228,226)" name="Text"/>
-    <comp lib="0" loc="(130,270)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="D3"/>
-      <a name="labelfont" val="Segoe UI Semibold bold 20"/>
-    </comp>
-    <comp lib="0" loc="(130,200)" name="Clock">
-      <a name="label" val="CLK"/>
-      <a name="labelfont" val="Segoe UI Semibold plain 20"/>
-    </comp>
-    <comp lib="0" loc="(130,300)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="PR"/>
-      <a name="labelfont" val="Segoe UI Semibold bold 20"/>
-    </comp>
-    <comp lib="0" loc="(390,360)" name="Pin">
+    <comp lib="0" loc="(830,360)" name="Pin">
       <a name="facing" val="north"/>
       <a name="output" val="true"/>
       <a name="label" val="Q2"/>
       <a name="labelloc" val="east"/>
       <a name="labelfont" val="Segoe UI Semibold bold 20"/>
     </comp>
+    <comp lib="0" loc="(130,300)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="PR"/>
+      <a name="labelfont" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="4" loc="(480,250)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(130,330)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="CLR"/>
+      <a name="labelfont" val="Segoe UI Semibold plain 20"/>
+    </comp>
+    <comp lib="6" loc="(225,228)" name="Text">
+      <a name="text" val="DEF7"/>
+      <a name="font" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="6" loc="(220,229)" name="Text"/>
     <comp lib="4" loc="(260,250)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(720,360)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="label" val="Q3"/>
+      <a name="labelloc" val="east"/>
+      <a name="labelfont" val="Segoe UI Semibold bold 20"/>
+    </comp>
     <comp lib="0" loc="(500,360)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="label" val="Q5"/>
+      <a name="labelloc" val="east"/>
+      <a name="labelfont" val="Segoe UI Semibold plain 20"/>
+    </comp>
+    <comp lib="0" loc="(130,270)" name="Pin">
+      <a name="tristate" val="false"/>
+      <a name="label" val="D3"/>
+      <a name="labelfont" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="4" loc="(700,250)" name="D Flip-Flop"/>
+    <comp lib="6" loc="(228,226)" name="Text"/>
+    <comp lib="4" loc="(920,250)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(1050,360)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="label" val="Q0"/>
+      <a name="labelloc" val="east"/>
+      <a name="labelfont" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="6" loc="(880,224)" name="Text">
+      <a name="text" val="DEF1"/>
+      <a name="font" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="0" loc="(940,360)" name="Pin">
       <a name="facing" val="north"/>
       <a name="output" val="true"/>
       <a name="label" val="Q1"/>
       <a name="labelloc" val="east"/>
       <a name="labelfont" val="Segoe UI Semibold plain 20"/>
     </comp>
-    <comp lib="0" loc="(130,330)" name="Pin">
-      <a name="tristate" val="false"/>
-      <a name="label" val="CLR"/>
-      <a name="labelfont" val="Segoe UI Semibold plain 20"/>
-    </comp>
-    <comp lib="6" loc="(553,224)" name="Text">
+    <comp lib="6" loc="(993,224)" name="Text">
       <a name="text" val="DEF0"/>
       <a name="font" val="Segoe UI Semibold bold 20"/>
     </comp>
-    <comp lib="6" loc="(225,228)" name="Text">
-      <a name="text" val="DEF3"/>
-      <a name="font" val="Segoe UI Semibold bold 20"/>
-    </comp>
-    <comp lib="4" loc="(480,250)" name="D Flip-Flop"/>
     <comp lib="0" loc="(280,360)" name="Pin">
       <a name="facing" val="north"/>
       <a name="output" val="true"/>
-      <a name="label" val="Q3"/>
+      <a name="label" val="Q7"/>
       <a name="labelloc" val="east"/>
       <a name="labelfont" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="4" loc="(1030,250)" name="D Flip-Flop"/>
+    <comp lib="4" loc="(590,250)" name="D Flip-Flop"/>
+    <comp lib="6" loc="(771,226)" name="Text">
+      <a name="text" val="DEF2"/>
+      <a name="font" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="0" loc="(390,360)" name="Pin">
+      <a name="facing" val="north"/>
+      <a name="output" val="true"/>
+      <a name="label" val="Q6"/>
+      <a name="labelloc" val="east"/>
+      <a name="labelfont" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="6" loc="(665,228)" name="Text">
+      <a name="text" val="DEF3"/>
+      <a name="font" val="Segoe UI Semibold bold 20"/>
+    </comp>
+    <comp lib="4" loc="(370,250)" name="D Flip-Flop"/>
+    <comp lib="0" loc="(130,200)" name="Clock">
+      <a name="label" val="CLK"/>
+      <a name="labelfont" val="Segoe UI Semibold plain 20"/>
     </comp>
   </circuit>
 </project>
